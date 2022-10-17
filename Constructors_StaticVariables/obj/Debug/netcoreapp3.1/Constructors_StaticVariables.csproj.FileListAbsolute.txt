@@ -1,0 +1,14 @@
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\bin\Debug\netcoreapp3.1\Constructors_StaticVariables.exe
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\bin\Debug\netcoreapp3.1\Constructors_StaticVariables.deps.json
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\bin\Debug\netcoreapp3.1\Constructors_StaticVariables.runtimeconfig.json
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\bin\Debug\netcoreapp3.1\Constructors_StaticVariables.runtimeconfig.dev.json
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\bin\Debug\netcoreapp3.1\Constructors_StaticVariables.dll
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\bin\Debug\netcoreapp3.1\Constructors_StaticVariables.pdb
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.csproj.AssemblyReference.cache
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.dll
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.pdb
+C:\Users\Anamika\source\repos\Constructors_StaticVariables\Constructors_StaticVariables\obj\Debug\netcoreapp3.1\Constructors_StaticVariables.genruntimeconfig.cache
